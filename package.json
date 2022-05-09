@@ -1,0 +1,23 @@
+{
+  "name": "rpg-manager",
+  "version": "1.0.0",
+  "description": "A manager for tabletop games.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon start ./bin/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiovisk/rpg-manager.git"
+  },
+  "author": "Kaio Roque",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kaiovisk/rpg-manager/issues"
+  },
+  "homepage": "https://github.com/kaiovisk/rpg-manager#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
